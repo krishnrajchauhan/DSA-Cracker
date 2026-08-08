@@ -1,2 +1,2 @@
 # DSA-Cracker
-My daily DSA solutions and consistency tracker.
+Solving DSA questions daily and pushing on github.
